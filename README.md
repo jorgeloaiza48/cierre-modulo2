@@ -1,4 +1,4 @@
-# cierre-módulo2
+# cierre-módulo2 (Tomado de https://github.com/MateoMoralesDev/ConcesionariaDeAutos/blob/master/resuelto.js)
 Este código es el necesario para desarrollar los ejercicios del cierre del módulo2 y que consiste en una concesionaria de autos.
 
 EJERCICIO:
